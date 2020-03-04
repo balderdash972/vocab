@@ -1,1 +1,209 @@
-# vocab
+{
+  "result": [
+    {
+      "word": "apple",
+      "content": [
+        {
+          "meaning": "蘋果",
+          "pos": "n.",
+          "kk": "ˋæp!",
+          "sentence": "An apple a day, keeps the doctor away.",
+          "translation": "一天一蘋果，醫生遠離我。"
+        }
+      ],
+      "keep": false,
+      "collection": [
+        {
+          "topic": "3000",
+          "unit": 1
+        },
+        {
+          "topic": "food",
+          "unit": 1
+        }
+      ]
+    },
+    {
+      "word": "banana",
+      "content": [
+        {
+          "meaning": "香蕉",
+          "kk": "bəˋnænə",
+          "pos": "n.",
+          "sentence": "Lying on the table were some apples and two bunches of bananas.",
+          "translation": "桌上放著幾個蘋果和兩串香蕉。"
+        }
+      ],
+      "keep": false,
+      "collection": [
+        {
+          "topic": "3000",
+          "unit": 1
+        },
+        {
+          "topic": "food",
+          "unit": 1
+        }
+      ]
+    },
+    {
+      "word": "objective",
+      "content": [
+        {
+          "meaning": "客觀存在的；客觀的，如實的，無偏見的",
+          "kk": "əbˋdʒɛktɪv",
+          "pos": "adj.",
+          "sentence": "A judge must give an objective opinion.",
+          "translation": "評判員必須發表公正的意見。"
+        },
+        {
+          "meaning": "目的，目標",
+          "pos": "n.",
+          "kk": "əbˋdʒɛktɪv",
+          "sentence": "A college education is my objective.",
+          "translation": "我的目標是獲得大學教育。"
+        }
+      ],
+      "keep": false,
+      "collection": [
+        {
+          "topic": "5000",
+          "unit": 1
+        },
+        {
+          "topic": "toeic",
+          "unit": 1
+        }
+      ]
+    },
+    {
+      "word": "present",
+      "content": [
+        {
+          "meaning": "在場的；現在的",
+          "kk": "ˋprɛznt",
+          "pos": "adj.",
+          "sentence": "How many people were present at the meeting? ",
+          "translation": "到會的有多少人？"
+        },
+        {
+          "meaning": "現在；禮物",
+          "kk": "ˋprɛznt",
+          "pos": "n.",
+          "sentence": "There is no time like the present. ",
+          "translation": "機不可失，時不再來。"
+        },
+        {
+          "meaning": "贈送，呈獻",
+          "kk": "prɪˋzɛnt",
+          "pos": "v.",
+          "sentence": "They presented him with a bunch of flowers. ",
+          "translation": "他們獻給他一束鮮花。"
+        }
+      ],
+      "keep": false,
+      "collection": [
+        {
+          "topic": "3000",
+          "unit": 1
+        },
+        {
+          "topic": "toeic",
+          "unit": 1
+        }
+      ]
+    },
+    {
+      "word": "opinion",
+      "content": [
+        {
+          "meaning": "意見，見解；主張；看法",
+          "kk": "əˋpɪnjən",
+          "pos": "n.",
+          "sentence": "Opinions differ on this matter.",
+          "translation": "對這件事各人看法不一。"
+        }
+      ],
+      "keep": false,
+      "collection": [
+        {
+          "topic": "3000",
+          "unit": 1
+        },
+        {
+          "topic": "toeic",
+          "unit": 2
+        }
+      ]
+    },
+    {
+      "word": "honest",
+      "content": [
+        {
+          "meaning": "誠實的；正直的",
+          "kk": "ˋɑnɪst",
+          "pos": "adj.",
+          "sentence": "All my life I have tried to be an honest man.",
+          "translation": "我一生都想做一個誠實的人。"
+        }
+      ],
+      "keep": false,
+      "collection": [
+        {
+          "topic": "3000",
+          "unit": 2
+        },
+        {
+          "topic": "toeic",
+          "unit": 2
+        }
+      ]
+    },
+    {
+      "word": "suspicious",
+      "content": [
+        {
+          "meaning": "猜疑的，疑心的",
+          "kk": "səˋspɪʃəs",
+          "pos": "adj.",
+          "sentence": "I'm suspicious of the government's intentions.",
+          "translation": "我懷疑政府的意圖。"
+        }
+      ],
+      "keep": false,
+      "collection": [
+        {
+          "topic": "5000",
+          "unit": 1
+        },
+        {
+          "topic": "toeic",
+          "unit": 1
+        }
+      ]
+    },
+    {
+      "word": "president",
+      "content": [
+        {
+          "meaning": "總統；校長；長官；主席",
+          "kk": "ˋprɛzədənt",
+          "pos": "n.",
+          "sentence": "The president of France visited our country last week.",
+          "translation": "上星期法國總統訪問了我國。"
+        }
+      ],
+      "keep": false,
+      "collection": [
+        {
+          "topic": "5000",
+          "unit": 1
+        },
+        {
+          "topic": "toeic",
+          "unit": 1
+        }
+      ]
+    }
+  ]
+}
