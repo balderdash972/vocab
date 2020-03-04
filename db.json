@@ -1,209 +1,422 @@
-{
-  "result": [
+[
     {
-      "word": "apple",
-      "content": [
-        {
-          "meaning": "蘋果",
-          "pos": "n.",
-          "kk": "ˋæp!",
-          "sentence": "An apple a day, keeps the doctor away.",
-          "translation": "一天一蘋果，醫生遠離我。"
-        }
-      ],
-      "keep": false,
-      "collection": [
-        {
-          "topic": "3000",
-          "unit": 1
-        },
-        {
-          "topic": "food",
-          "unit": 1
-        }
-      ]
+        "word": "apple",
+        "content": [
+            {
+                "meaning": "蘋果",
+                "pos": "n.",
+                "kk": "ˋæp!",
+                "sentence": "An apple a day，keeps the doctor away.",
+                "translation": "一天一蘋果，醫生遠離我。",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
     },
     {
-      "word": "banana",
-      "content": [
-        {
-          "meaning": "香蕉",
-          "kk": "bəˋnænə",
-          "pos": "n.",
-          "sentence": "Lying on the table were some apples and two bunches of bananas.",
-          "translation": "桌上放著幾個蘋果和兩串香蕉。"
-        }
-      ],
-      "keep": false,
-      "collection": [
-        {
-          "topic": "3000",
-          "unit": 1
-        },
-        {
-          "topic": "food",
-          "unit": 1
-        }
-      ]
+        "word": "acceptable",
+        "content": [
+            {
+                "meaning": "可接受的，合意的",
+                "pos": "adj.",
+                "kk": "әkˋsєptәbL",
+                "sentence": "Compliments are always acceptable.",
+                "translation": "恭維話總是受歡迎的。",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
     },
     {
-      "word": "objective",
-      "content": [
-        {
-          "meaning": "客觀存在的；客觀的，如實的，無偏見的",
-          "kk": "əbˋdʒɛktɪv",
-          "pos": "adj.",
-          "sentence": "A judge must give an objective opinion.",
-          "translation": "評判員必須發表公正的意見。"
-        },
-        {
-          "meaning": "目的，目標",
-          "pos": "n.",
-          "kk": "əbˋdʒɛktɪv",
-          "sentence": "A college education is my objective.",
-          "translation": "我的目標是獲得大學教育。"
-        }
-      ],
-      "keep": false,
-      "collection": [
-        {
-          "topic": "5000",
-          "unit": 1
-        },
-        {
-          "topic": "toeic",
-          "unit": 1
-        }
-      ]
+        "word": "accident",
+        "content": [
+            {
+                "meaning": "意外事件，事故",
+                "pos": "n.",
+                "kk": "ˋæksәdәnt",
+                "sentence": "He died in an automobile accident years ago.",
+                "translation": "他數年前死於車禍。",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
     },
     {
-      "word": "present",
-      "content": [
-        {
-          "meaning": "在場的；現在的",
-          "kk": "ˋprɛznt",
-          "pos": "adj.",
-          "sentence": "How many people were present at the meeting? ",
-          "translation": "到會的有多少人？"
-        },
-        {
-          "meaning": "現在；禮物",
-          "kk": "ˋprɛznt",
-          "pos": "n.",
-          "sentence": "There is no time like the present. ",
-          "translation": "機不可失，時不再來。"
-        },
-        {
-          "meaning": "贈送，呈獻",
-          "kk": "prɪˋzɛnt",
-          "pos": "v.",
-          "sentence": "They presented him with a bunch of flowers. ",
-          "translation": "他們獻給他一束鮮花。"
-        }
-      ],
-      "keep": false,
-      "collection": [
-        {
-          "topic": "3000",
-          "unit": 1
-        },
-        {
-          "topic": "toeic",
-          "unit": 1
-        }
-      ]
+        "word": "account",
+        "content": [
+            {
+                "meaning": "計算，帳目，說明，估計，理由",
+                "pos": "n.",
+                "kk": "әˋkaUnt",
+                "sentence": "The accounts show we have spent more than we received.",
+                "translation": "帳目顯示我們已經入不敷出了。",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
     },
     {
-      "word": "opinion",
-      "content": [
-        {
-          "meaning": "意見，見解；主張；看法",
-          "kk": "əˋpɪnjən",
-          "pos": "n.",
-          "sentence": "Opinions differ on this matter.",
-          "translation": "對這件事各人看法不一。"
-        }
-      ],
-      "keep": false,
-      "collection": [
-        {
-          "topic": "3000",
-          "unit": 1
-        },
-        {
-          "topic": "toeic",
-          "unit": 2
-        }
-      ]
+        "word": "accurate",
+        "content": [
+            {
+                "meaning": "正確的，精確的",
+                "pos": "adj.",
+                "kk": "ˋækjәrIt",
+                "sentence": "The new salesgirl is accurate at figures.",
+                "translation": "新來的女售貨員計算正確無誤。",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
     },
     {
-      "word": "honest",
-      "content": [
-        {
-          "meaning": "誠實的；正直的",
-          "kk": "ˋɑnɪst",
-          "pos": "adj.",
-          "sentence": "All my life I have tried to be an honest man.",
-          "translation": "我一生都想做一個誠實的人。"
-        }
-      ],
-      "keep": false,
-      "collection": [
-        {
-          "topic": "3000",
-          "unit": 2
-        },
-        {
-          "topic": "toeic",
-          "unit": 2
-        }
-      ]
+        "word": "ache",
+        "content": [
+            {
+                "meaning": "疼痛；覺得疼痛，渴望",
+                "pos": "n.",
+                "kk": "ek",
+                "sentence": "Mother says she is aching all over with fatigue.",
+                "translation": "母親說她累得渾身疼痛。",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
     },
     {
-      "word": "suspicious",
-      "content": [
-        {
-          "meaning": "猜疑的，疑心的",
-          "kk": "səˋspɪʃəs",
-          "pos": "adj.",
-          "sentence": "I'm suspicious of the government's intentions.",
-          "translation": "我懷疑政府的意圖。"
-        }
-      ],
-      "keep": false,
-      "collection": [
-        {
-          "topic": "5000",
-          "unit": 1
-        },
-        {
-          "topic": "toeic",
-          "unit": 1
-        }
-      ]
+        "word": "achieve",
+        "content": [
+            {
+                "meaning": "完成，達到",
+                "pos": "v.",
+                "kk": "әˋtʃiv",
+                "sentence": "The actor achieved fame when he was only nineteen.",
+                "translation": "那位演員十九歲時就成名了。",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
     },
     {
-      "word": "president",
-      "content": [
-        {
-          "meaning": "總統；校長；長官；主席",
-          "kk": "ˋprɛzədənt",
-          "pos": "n.",
-          "sentence": "The president of France visited our country last week.",
-          "translation": "上星期法國總統訪問了我國。"
-        }
-      ],
-      "keep": false,
-      "collection": [
-        {
-          "topic": "5000",
-          "unit": 1
-        },
-        {
-          "topic": "toeic",
-          "unit": 1
-        }
-      ]
+        "word": "achievement",
+        "content": [
+            {
+                "meaning": "成就，功勣",
+                "pos": "n.",
+                "kk": "әˋtʃivmәnt",
+                "sentence": "The invention of the computer is a great achievement.",
+                "translation": "發明電腦是一大成就。",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
+    },
+    {
+        "word": "banana",
+        "content": [
+            {
+                "meaning": "香蕉",
+                "pos": "n.",
+                "kk": "bəˋnænə",
+                "sentence": "Lying on the table were some apples and two bunches of bananas.",
+                "translation": "桌上放著幾個蘋果和兩串香蕉。",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
+    },
+    {
+        "word": "breathe",
+        "content": [
+            {
+                "meaning": "呼吸，發出",
+                "pos": "v.",
+                "kk": "brið",
+                "sentence": "The animal was still breathing，so we knew it was still alive.",
+                "translation": "那頭動物仍在呼吸，所以我們知道它還活著。",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
+    },
+    {
+        "word": "breeze",
+        "content": [
+            {
+                "meaning": "微風",
+                "pos": "n.",
+                "kk": "briz",
+                "sentence": "The flags fluttered in the breeze.",
+                "translation": "旗幟在微風中飄揚。",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
+    },
+    {
+        "word": "bride",
+        "content": [
+            {
+                "meaning": "新娘",
+                "pos": "n.",
+                "kk": "braɪd",
+                "sentence": "He returned from New York with his lovely new bride.",
+                "translation": "他和漂亮的新娘一起從紐約回來了。",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
+    },
+    {
+        "word": "brilliant",
+        "content": [
+            {
+                "meaning": "燦爛的，閃耀的，有才氣的",
+                "pos": "adj.",
+                "kk": "ˈbrɪl.jənt",
+                "sentence": "Her mother was a brilliant scientist.",
+                "translation": "她母親是一位才華橫溢的科學家。",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
+    },
+    {
+        "word": "brook",
+        "content": [
+            {
+                "meaning": "小溪",
+                "pos": "n.",
+                "kk": "brʊk",
+                "sentence": "I could hear the sound of a babbling brook.",
+                "translation": "我可以聽見小溪潺潺的流水聲。",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
+    },
+    {
+        "word": "broom",
+        "content": [
+            {
+                "meaning": "掃帚，金雀花",
+                "pos": "n.",
+                "kk": "brum",
+                "sentence": "She broomed up the scraps of paper.",
+                "translation": "她把紙屑掃在一起。",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
+    },
+    {
+        "word": "couch",
+        "content": [
+            {
+                "meaning": "床，睡椅",
+                "pos": "n.",
+                "kk": "kaʊtʃ",
+                "sentence": "The sick child was lying on the couch in the living room. ",
+                "translation": "病孩躺在起居室的長椅上。",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
+    },
+    {
+        "word": "countable",
+        "content": [
+            {
+                "meaning": "可計算的",
+                "pos": "adj.",
+                "kk": "ˋkaʊntəb",
+                "sentence": "a countable noun",
+                "translation": "可數名詞",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
+    },
+    {
+        "word": "coward",
+        "content": [
+            {
+                "meaning": "懦弱的人，膽小的人",
+                "pos": "n.",
+                "kk": "ˋkaʊɚd",
+                "sentence": "Only a coward would run from danger. ",
+                "translation": "只有懦夫才臨危脫逃。",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
+    },
+    {
+        "word": "cradle",
+        "content": [
+            {
+                "meaning": "搖籃，發源地，支船架",
+                "pos": "n.",
+                "kk": "ˋkred!",
+                "sentence": "Ancient Athens is said to be the cradle of democracy. ",
+                "translation": "據說古代雅典是民主的搖籃。",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
+    },
+    {
+        "word": "crash",
+        "content": [
+            {
+                "meaning": "碰撞，墜落，墜毀",
+                "pos": "v.",
+                "kk": "kræʃ",
+                "sentence": "The motorcycle crashed into the fence. ",
+                "translation": "摩托車猛地撞在籬笆上。",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
+    },
+    {
+        "word": "crawl",
+        "content": [
+            {
+                "meaning": "爬行，蠕動，徐徐行進",
+                "pos": "v.",
+                "kk": "krɔl",
+                "sentence": "He watched the baby crawl across the room.",
+                "translation": "他看著嬰兒從房間這邊爬到那邊。",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
+    },
+    {
+        "word": "creative",
+        "content": [
+            {
+                "meaning": "創造性的",
+                "pos": "adj.",
+                "kk": "krɪˋetɪv",
+                "sentence": "she's very creative.",
+                "translation": "她很有創造力。",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
+    },
+    {
+        "word": "honest",
+        "content": [
+            {
+                "meaning": "誠實的；正直的",
+                "pos": "adj.",
+                "kk": "ˋɑnɪst",
+                "sentence": "All my life I have tried to be an honest man.",
+                "translation": "我一生都想做一個誠實的人。",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
+    },
+    {
+        "word": "opinion",
+        "content": [
+            {
+                "meaning": "意見，見解；主張；看法",
+                "pos": "n.",
+                "kk": "əˋpɪnjən",
+                "sentence": "Opinions differ on this matter.",
+                "translation": "對這件事各人看法不一。",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
+    },
+    {
+        "word": "objective",
+        "content": [
+            {
+                "meaning": "客觀存在的；客觀的，如實的，無偏見的",
+                "pos": "adj.",
+                "kk": "əbˋdʒɛktɪv",
+                "sentence": "A judge must give an objective opinion.",
+                "translation": "評判員必須發表公正的意見。",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
+    },
+    {
+        "word": "present",
+        "content": [
+            {
+                "meaning": "在場的；現在的",
+                "pos": "adj.",
+                "kk": "ˋprɛznt",
+                "sentence": "How many people were present at the meeting?",
+                "translation": "到會的有多少人？",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
+    },
+    {
+        "word": "president",
+        "content": [
+            {
+                "meaning": "總統；校長；長官；主席",
+                "pos": "n.",
+                "kk": "ˋprɛzədənt",
+                "sentence": "The president of France visited our country last week.",
+                "translation": "上星期法國總統訪問了我國。",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
+    },
+    {
+        "word": "suspicious",
+        "content": [
+            {
+                "meaning": "猜疑的，疑心的",
+                "pos": "adj.",
+                "kk": "səˋspɪʃəs",
+                "sentence": "I'm suspicious of the government's intentions.",
+                "translation": "我懷疑政府的意圖。",
+                "topic": "3000"
+            }
+        ],
+        "keep": false,
+        "collection": []
     }
-  ]
-}
+]
